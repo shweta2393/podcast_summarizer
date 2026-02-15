@@ -1,6 +1,7 @@
 # Podcast Summarizer
 
 An AI-powered podcast summarizer that transcribes audio using **OpenAI Whisper** and generates summaries, key points, and highlights using **Facebook BART**.
+Screenshots from local run are available in: backend/docs/ui-screenshots.pdf
 
 ## Features
 
